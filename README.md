@@ -6,7 +6,7 @@ I build web tools and JavaScript systems with a focus on clear interfaces, predi
 
 | Project | What it demonstrates |
 | --- | --- |
-| [JSON Lens](https://github.com/mh8104094-netizen/json-lens) | A browser-based JSON comparison tool with nested paths, validation, and a responsive interface. |
+| [JSON Lens](https://github.com/mh8104094-netizen/json-lens) | A browser-based JSON comparison tool with nested paths and validation. [Live demo](https://mh8104094-netizen.github.io/json-lens/). |
 | [Faultline Fetch](https://github.com/mh8104094-netizen/faultline-fetch) | A small HTTP client with safe retries, timeouts, a circuit breaker, and deterministic tests. |
 
 ## How I work
