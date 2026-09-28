@@ -1,16 +1,21 @@
-## Hi there 👋
+# Building software that holds up under real use
 
-<!--
-**mh8104094-netizen/mh8104094-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web tools and JavaScript systems with a focus on clear interfaces, predictable behavior, and code that can be tested.
 
-Here are some ideas to get you started:
+## Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it demonstrates |
+| --- | --- |
+| [JSON Lens](https://github.com/mh8104094-netizen/json-lens) | A browser-based JSON comparison tool with nested paths, validation, and a responsive interface. |
+| [Faultline Fetch](https://github.com/mh8104094-netizen/faultline-fetch) | A small HTTP client with safe retries, timeouts, a circuit breaker, and deterministic tests. |
+
+## How I work
+
+- Build usable features and document how to run them.
+- Handle failure paths as carefully as the happy path.
+- Keep dependencies small where they do not add clear value.
+- Write tests for behavior that matters.
+
+**Stack:** TypeScript · JavaScript · Node.js · Web APIs · HTML/CSS
+
+Explore the repositories for source code, setup instructions, and tradeoffs. More projects are in progress.
